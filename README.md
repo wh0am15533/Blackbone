@@ -1,4 +1,4 @@
-# Blackbone (latest) reverted to VS2017 toolset v141. Orignal Readme not updated to reflect proper build environment (VS2019 toolset v142).
+# Blackbone (latest) reverted to VS2017 toolset v141. Original Readme not updated to reflect proper build environment (VS2019 toolset v142).
 
 ### Windows memory hacking library
 
